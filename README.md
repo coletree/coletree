@@ -2,9 +2,10 @@
 
 [![SwiftLee Supporter](https://www.avanderlee.com/public-assets/github_profile_header.jpg)](https://www.avanderlee.com/supporters)
 
-Indie iOS developer shipping small, thoughtful apps.
-
-You can support me by download my Apps. 🙏
+🙏
+I design and build small, thoughtful iOS apps as an independent developer.
+No big team — just careful ideas and shipped products.
+Every download helps me keep building — thank you for supporting independent makers.
 
 ## My Apps
 - InspireNote - Creative Brainstorming Card Deck & Notes App [(Get)](https://apps.apple.com/app/id6737554560)
