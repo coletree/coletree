@@ -25,12 +25,12 @@ You can support my [open-source repositories](https://github.com/AvdLee?tab=repo
 All my content is completely free which is made possible by your support.
 
 ## My Apps
-- InspireNote - Creative Brainstorming Card Deck & Notes App [Get](https://apps.apple.com/app/id6737554560)
-- PhiloKids - Family Conversation Q&A Card Game [Get](https://apps.apple.com/app/id6739989481) 
-- SoundCan - SoundBoard on iPhone Home Screen [Get](https://apps.apple.com/app/id6753789076) 
+- InspireNote - Creative Brainstorming Card Deck & Notes App [(Get)](https://apps.apple.com/app/id6737554560)
+- PhiloKids - Family Conversation Q&A Card Game [(Get)](https://apps.apple.com/app/id6739989481) 
+- SoundCan - SoundBoard on iPhone Home Screen [(Get)](https://apps.apple.com/app/id6753789076) 
 
 ## Follow me
-- [Web](https://coletree.com)   
+- [Visit My Website](https://coletree.com)   
 - [Follow me on X](https://x.com/coletree)   
 
 
