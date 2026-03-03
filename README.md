@@ -11,9 +11,9 @@ Every download helps me keep building — thank you for supporting independent m
 🙏
 
 ## My Apps
-- InspireNote - Creative Brainstorming Card Deck & Notes App [![Get]](https://apps.apple.com/app/id6737554560)
-- PhiloKids - Family Conversation Q&A Card Game [![Get]](https://apps.apple.com/app/id6739989481) 
-- SoundCan - SoundBoard on iPhone Home Screen [![Get]](https://apps.apple.com/app/id6753789076) 
+- InspireNote - Creative Brainstorming Card Deck & Notes App [[Get]](https://apps.apple.com/app/id6737554560)
+- PhiloKids - Family Conversation Q&A Card Game [[Get]](https://apps.apple.com/app/id6739989481) 
+- SoundCan - SoundBoard on iPhone Home Screen [[Get]](https://apps.apple.com/app/id6753789076) 
 
 ## Follow me
 - [Visit My Website](https://coletree.com)   
